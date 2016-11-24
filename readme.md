@@ -1,4 +1,4 @@
-A quick script to let you get a cloc of all of your repositories on Github.
+A quick script to let you get a `cloc` of all of your repositories on Github.
 
 Requirements:
 
